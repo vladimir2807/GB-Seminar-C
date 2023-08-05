@@ -398,4 +398,4 @@ FodyWeavers.xsd
 *.sln.iml
 
 # Только для папок Task, работа на семинаре
-*Task/
+*Tasks/
