@@ -7,7 +7,7 @@ Console.WriteLine("Напишите число: ");
 int FerstNumber = Convert.ToInt32(Console.ReadLine());
 int SecondNumber = 1;
 int i = SecondNumber;
-while (i < FerstNumber + 1)
+while (i <= FerstNumber)
 {
     Console.Write(i + " ");
     i++;
